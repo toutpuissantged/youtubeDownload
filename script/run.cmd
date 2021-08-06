@@ -1,0 +1,1 @@
+F:\code\Projets\python\youtubeSlack\env\Scripts\python.exe F:\code\Projets\python\youtubeSlack\main.py
