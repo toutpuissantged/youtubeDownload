@@ -6,5 +6,12 @@
 	],
 	"settings": {
 		"diffEditor.wordWrap": "on"
+	},
+	"extensions": {
+		"recommendations": [
+			"eamodio.gitlens",
+			"github.vscode-pull-request-github",
+			"ms-python.vscode-pylance"
+		]
 	}
 }
